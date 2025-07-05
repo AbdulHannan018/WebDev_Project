@@ -1,0 +1,19 @@
+/* Reviews.css */
+.reviews-list {
+    margin-top: 20px;
+  }
+  
+  .review-card {
+    background-color: #eeeaea;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  
+  .review-card p {
+    font-size: 1.1em;
+    font-style: italic;
+    color: #1a1919;
+  }
+  
